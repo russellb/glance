@@ -45,7 +45,6 @@ sys.path = [os.path.abspath('../../glance'),
 extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.coverage',
               'sphinx.ext.ifconfig',
-              'sphinx.ext.intersphinx',
               'sphinx.ext.pngmath',
               'sphinx.ext.graphviz',
               'sphinx.ext.todo']
